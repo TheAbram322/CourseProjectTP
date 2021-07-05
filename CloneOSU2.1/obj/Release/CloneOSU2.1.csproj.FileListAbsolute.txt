@@ -1,0 +1,15 @@
+C:\Users\egor2\source\repos\CloneOSU2.1\CloneOSU2.1\bin\Release\CloneOSU2.1.exe.config
+C:\Users\egor2\source\repos\CloneOSU2.1\CloneOSU2.1\bin\Release\CloneOSU2.1.exe
+C:\Users\egor2\source\repos\CloneOSU2.1\CloneOSU2.1\bin\Release\CloneOSU2.1.pdb
+C:\Users\egor2\source\repos\CloneOSU2.1\CloneOSU2.1\obj\Release\CloneOSU2.GameForm.resources
+C:\Users\egor2\source\repos\CloneOSU2.1\CloneOSU2.1\obj\Release\CloneOSU2.MainForm.resources
+C:\Users\egor2\source\repos\CloneOSU2.1\CloneOSU2.1\obj\Release\CloneOSU2.Properties.Resources.resources
+C:\Users\egor2\source\repos\CloneOSU2.1\CloneOSU2.1\obj\Release\CloneOSU2.Resources.resources
+C:\Users\egor2\source\repos\CloneOSU2.1\CloneOSU2.1\obj\Release\CloneOSU2.1.csproj.GenerateResource.cache
+C:\Users\egor2\source\repos\CloneOSU2.1\CloneOSU2.1\obj\Release\CloneOSU2.1.csproj.CoreCompileInputs.cache
+C:\Users\egor2\source\repos\CloneOSU2.1\CloneOSU2.1\obj\Release\CloneOSU2.1.exe
+C:\Users\egor2\source\repos\CloneOSU2.1\CloneOSU2.1\obj\Release\CloneOSU2.1.pdb
+C:\Users\egor2\source\repos\CloneOSU2.1\CloneOSU2.1\bin\Release\NAudio.dll
+C:\Users\egor2\source\repos\CloneOSU2.1\CloneOSU2.1\bin\Release\NAudio.xml
+C:\Users\egor2\source\repos\CloneOSU2.1\CloneOSU2.1\obj\Release\CloneOSU2.1.csproj.CopyComplete
+C:\Users\egor2\source\repos\CloneOSU2.1\CloneOSU2.1\obj\Release\CloneOSU2.1.csprojAssemblyReference.cache
